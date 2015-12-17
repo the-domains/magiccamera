@@ -1,7 +1,7 @@
 name: MagicCamera
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.32472
+layout_spectrum: 0.24455
+typography_spectrum: 0.27845
 title: MagicCamera Design Services
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#6d3e37'
     - '#1d0b07'
   brandStrength: 0
-  lightness: 1
+  lightness: 0.5
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
